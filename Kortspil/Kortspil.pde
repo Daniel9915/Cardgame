@@ -1,4 +1,4 @@
-boolean inGame = true;
+boolean inGame = false;
 
 void setup(){
   size(896,414);
