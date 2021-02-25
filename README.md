@@ -11,4 +11,4 @@ Krav:
 
 Vores design skulle ligne skitserne nogenlunde.
 
-Programmet starter med at tjekke om spillet er startet, 
+Programmet starter med at tjekke om spillet er startet, hvilket det ikke er. Det starter når man klikker på knappen. Når man klikker på knappen starter en funktion, der starter en række funktioner. Først laver den fire objekt spillere, og giver dem numre. 
