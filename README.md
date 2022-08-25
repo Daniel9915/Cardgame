@@ -1,4 +1,6 @@
-# Kortspil
+A card game made for a school project:
+
+----------------------------------------------------------------------------
 
 Vores projekt er en app hvor man kan spille kortspillet Fisk. Når man inde i et spil, spiller man så imod 4 modstandere. Herfra spiller man bare fisk.
 
